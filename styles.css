@@ -1,0 +1,5 @@
+:root { font-family: system-ui, Arial, sans-serif; }
+main { max-width: 720px; margin: 4rem auto; padding: 2rem; border: 1px solid #ddd; border-radius: 12px; }
+h1 { margin-top: 0; }
+button { padding: .6rem 1rem; border-radius: 8px; border: 1px solid #ccc; cursor: pointer; }
+button:hover { background: #f5f5f5; }
